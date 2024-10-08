@@ -2,11 +2,89 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cluna2024.github.io/E3Store/blog</id>
     <title>E3 Store Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2024-10-08T17:26:37.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cluna2024.github.io/E3Store/blog"/>
     <subtitle>E3 Store Blog</subtitle>
     <icon>https://cluna2024.github.io/E3Store/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Objeto de usuarios]]></title>
+        <id>https://cluna2024.github.io/E3Store/blog/objetosUsuarios</id>
+        <link href="https://cluna2024.github.io/E3Store/blog/objetosUsuarios"/>
+        <updated>2024-10-08T17:26:37.795Z</updated>
+        <summary type="html"><![CDATA[Objeto de usuarios]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="objeto-de-usuarios">Objeto de usuarios<a href="https://cluna2024.github.io/E3Store/blog/objetosUsuarios#objeto-de-usuarios" class="hash-link" aria-label="Direct link to Objeto de usuarios" title="Direct link to Objeto de usuarios">​</a></h2>
+<p>Se realizó una refactorización en la lógica interna de gestión de usuarios, permitiendo la coexistencia de usuarios del tipo vendedor y usuarios comunes dentro del mismo sitio.</p>
+<hr>]]></content>
+        <author>
+            <name>E3 Store Team</name>
+        </author>
+        <category label="gestión de usuarios" term="gestión de usuarios"/>
+        <category label="multisitio" term="multisitio"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mejoras en las respuestas de medios de pago]]></title>
+        <id>https://cluna2024.github.io/E3Store/blog/mediosPago</id>
+        <link href="https://cluna2024.github.io/E3Store/blog/mediosPago"/>
+        <updated>2024-10-08T17:26:15.281Z</updated>
+        <summary type="html"><![CDATA[Mejoras en las respuestas de medios de pago]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="mejoras-en-las-respuestas-de-medios-de-pago">Mejoras en las respuestas de medios de pago<a href="https://cluna2024.github.io/E3Store/blog/mediosPago#mejoras-en-las-respuestas-de-medios-de-pago" class="hash-link" aria-label="Direct link to Mejoras en las respuestas de medios de pago" title="Direct link to Mejoras en las respuestas de medios de pago">​</a></h2>
+<p>Se implementó el uso de Mutex en todos los medios de pago, garantizando una mayor fiabilidad en las respuestas.</p>
+<hr>]]></content>
+        <author>
+            <name>E3 Store Team</name>
+        </author>
+        <category label="medios de pago" term="medios de pago"/>
+        <category label="mutex" term="mutex"/>
+        <category label="fiabilidad" term="fiabilidad"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Refactorización y Limpieza de código]]></title>
+        <id>https://cluna2024.github.io/E3Store/blog/refactorizqacion</id>
+        <link href="https://cluna2024.github.io/E3Store/blog/refactorizqacion"/>
+        <updated>2024-10-08T17:25:35.840Z</updated>
+        <summary type="html"><![CDATA[Refactorización y Limpieza de código]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="refactorización-y-limpieza-de-código">Refactorización y Limpieza de código<a href="https://cluna2024.github.io/E3Store/blog/refactorizqacion#refactorizaci%C3%B3n-y-limpieza-de-c%C3%B3digo" class="hash-link" aria-label="Direct link to Refactorización y Limpieza de código" title="Direct link to Refactorización y Limpieza de código">​</a></h2>
+<p>Se eliminaron funcionalidades obsoletas de la solución. Además, se depuraron advertencias siguiendo buenas prácticas de desarrollo.</p>
+<hr>]]></content>
+        <author>
+            <name>E3 Store Team</name>
+        </author>
+        <category label="refactorización" term="refactorización"/>
+        <category label="buenas prácticas" term="buenas prácticas"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mejoras en rendimiento]]></title>
+        <id>https://cluna2024.github.io/E3Store/blog/mejorasRendimiento</id>
+        <link href="https://cluna2024.github.io/E3Store/blog/mejorasRendimiento"/>
+        <updated>2024-10-08T17:25:13.113Z</updated>
+        <summary type="html"><![CDATA[Mejoras en rendimiento]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="mejoras-en-rendimiento">Mejoras en rendimiento<a href="https://cluna2024.github.io/E3Store/blog/mejorasRendimiento#mejoras-en-rendimiento" class="hash-link" aria-label="Direct link to Mejoras en rendimiento" title="Direct link to Mejoras en rendimiento">​</a></h2>
+<p>Se implementó la optimización de tiempos de carga mediante memory cache, lo que resultó en una notable mejora en la velocidad del sitio y reducción del TTFB (Time to First Byte). Esto conlleva un ligero incremento en el uso de memoria del servidor.</p>
+<hr>]]></content>
+        <author>
+            <name>E3 Store Team</name>
+        </author>
+        <category label="rendimiento" term="rendimiento"/>
+        <category label="memory cache" term="memory cache"/>
+        <category label="TTFB" term="TTFB"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EnableProfiler (tag del web.config)]]></title>
+        <id>https://cluna2024.github.io/E3Store/blog/webConfig</id>
+        <link href="https://cluna2024.github.io/E3Store/blog/webConfig"/>
+        <updated>2024-10-08T17:24:34.958Z</updated>
+        <summary type="html"><![CDATA[EnableProfiler (tag del web.config)]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="enableprofiler-tag-del-webconfig">EnableProfiler (tag del web.config)<a href="https://cluna2024.github.io/E3Store/blog/webConfig#enableprofiler-tag-del-webconfig" class="hash-link" aria-label="Direct link to EnableProfiler (tag del web.config)" title="Direct link to EnableProfiler (tag del web.config)">​</a></h2>
+<p>Se añadió un visualizador de consultas a la base de datos, que muestra la cantidad de consultas y los SELECTs ejecutados en tiempo real.</p>
+<hr>]]></content>
+        <author>
+            <name>E3 Store Team</name>
+        </author>
+        <category label="optimización" term="optimización"/>
+        <category label="rendimiento" term="rendimiento"/>
+        <category label="consultas BD" term="consultas BD"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://cluna2024.github.io/E3Store/blog/welcome</id>
