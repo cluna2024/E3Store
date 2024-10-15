@@ -4,27 +4,15 @@
         <title>E3 Store Blog</title>
         <link>https://cluna2024.github.io/E3Store/blog</link>
         <description>E3 Store Blog</description>
-        <lastBuildDate>Tue, 08 Oct 2024 17:26:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Oct 2024 19:50:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
         <item>
-            <title><![CDATA[Objeto de usuarios]]></title>
-            <link>https://cluna2024.github.io/E3Store/blog/objetosUsuarios</link>
-            <guid>https://cluna2024.github.io/E3Store/blog/objetosUsuarios</guid>
-            <pubDate>Tue, 08 Oct 2024 17:26:37 GMT</pubDate>
-            <description><![CDATA[Objeto de usuarios]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="objeto-de-usuarios">Objeto de usuarios<a href="https://cluna2024.github.io/E3Store/blog/objetosUsuarios#objeto-de-usuarios" class="hash-link" aria-label="Enlace directo al Objeto de usuarios" title="Enlace directo al Objeto de usuarios">​</a></h2>
-<p>Se realizó una refactorización en la lógica interna de gestión de usuarios, permitiendo la coexistencia de usuarios del tipo vendedor y usuarios comunes dentro del mismo sitio.</p>
-<hr>]]></content:encoded>
-            <category>gestión de usuarios</category>
-            <category>multisitio</category>
-        </item>
-        <item>
             <title><![CDATA[Mejoras en las respuestas de medios de pago]]></title>
             <link>https://cluna2024.github.io/E3Store/blog/mediosPago</link>
             <guid>https://cluna2024.github.io/E3Store/blog/mediosPago</guid>
-            <pubDate>Tue, 08 Oct 2024 17:26:15 GMT</pubDate>
+            <pubDate>Mon, 14 Oct 2024 19:50:53 GMT</pubDate>
             <description><![CDATA[Mejoras en las respuestas de medios de pago]]></description>
             <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="mejoras-en-las-respuestas-de-medios-de-pago">Mejoras en las respuestas de medios de pago<a href="https://cluna2024.github.io/E3Store/blog/mediosPago#mejoras-en-las-respuestas-de-medios-de-pago" class="hash-link" aria-label="Enlace directo al Mejoras en las respuestas de medios de pago" title="Enlace directo al Mejoras en las respuestas de medios de pago">​</a></h2>
 <p>Se implementó el uso de Mutex en todos los medios de pago, garantizando una mayor fiabilidad en las respuestas.</p>
@@ -34,22 +22,10 @@
             <category>fiabilidad</category>
         </item>
         <item>
-            <title><![CDATA[Refactorización y Limpieza de código]]></title>
-            <link>https://cluna2024.github.io/E3Store/blog/refactorizqacion</link>
-            <guid>https://cluna2024.github.io/E3Store/blog/refactorizqacion</guid>
-            <pubDate>Tue, 08 Oct 2024 17:25:35 GMT</pubDate>
-            <description><![CDATA[Refactorización y Limpieza de código]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="refactorización-y-limpieza-de-código">Refactorización y Limpieza de código<a href="https://cluna2024.github.io/E3Store/blog/refactorizqacion#refactorizaci%C3%B3n-y-limpieza-de-c%C3%B3digo" class="hash-link" aria-label="Enlace directo al Refactorización y Limpieza de código" title="Enlace directo al Refactorización y Limpieza de código">​</a></h2>
-<p>Se eliminaron funcionalidades obsoletas de la solución. Además, se depuraron advertencias siguiendo buenas prácticas de desarrollo.</p>
-<hr>]]></content:encoded>
-            <category>refactorización</category>
-            <category>buenas prácticas</category>
-        </item>
-        <item>
             <title><![CDATA[Mejoras en rendimiento]]></title>
             <link>https://cluna2024.github.io/E3Store/blog/mejorasRendimiento</link>
             <guid>https://cluna2024.github.io/E3Store/blog/mejorasRendimiento</guid>
-            <pubDate>Tue, 08 Oct 2024 17:25:13 GMT</pubDate>
+            <pubDate>Mon, 14 Oct 2024 19:50:53 GMT</pubDate>
             <description><![CDATA[Mejoras en rendimiento]]></description>
             <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="mejoras-en-rendimiento">Mejoras en rendimiento<a href="https://cluna2024.github.io/E3Store/blog/mejorasRendimiento#mejoras-en-rendimiento" class="hash-link" aria-label="Enlace directo al Mejoras en rendimiento" title="Enlace directo al Mejoras en rendimiento">​</a></h2>
 <p>Se implementó la optimización de tiempos de carga mediante memory cache, lo que resultó en una notable mejora en la velocidad del sitio y reducción del TTFB (Time to First Byte). Esto conlleva un ligero incremento en el uso de memoria del servidor.</p>
@@ -59,10 +35,34 @@
             <category>TTFB</category>
         </item>
         <item>
+            <title><![CDATA[Objeto de usuarios]]></title>
+            <link>https://cluna2024.github.io/E3Store/blog/objetosUsuarios</link>
+            <guid>https://cluna2024.github.io/E3Store/blog/objetosUsuarios</guid>
+            <pubDate>Mon, 14 Oct 2024 19:50:53 GMT</pubDate>
+            <description><![CDATA[Objeto de usuarios]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="objeto-de-usuarios">Objeto de usuarios<a href="https://cluna2024.github.io/E3Store/blog/objetosUsuarios#objeto-de-usuarios" class="hash-link" aria-label="Enlace directo al Objeto de usuarios" title="Enlace directo al Objeto de usuarios">​</a></h2>
+<p>Se realizó una refactorización en la lógica interna de gestión de usuarios, permitiendo la coexistencia de usuarios del tipo vendedor y usuarios comunes dentro del mismo sitio.</p>
+<hr>]]></content:encoded>
+            <category>gestión de usuarios</category>
+            <category>multisitio</category>
+        </item>
+        <item>
+            <title><![CDATA[Refactorización y Limpieza de código]]></title>
+            <link>https://cluna2024.github.io/E3Store/blog/refactorizqacion</link>
+            <guid>https://cluna2024.github.io/E3Store/blog/refactorizqacion</guid>
+            <pubDate>Mon, 14 Oct 2024 19:50:53 GMT</pubDate>
+            <description><![CDATA[Refactorización y Limpieza de código]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="refactorización-y-limpieza-de-código">Refactorización y Limpieza de código<a href="https://cluna2024.github.io/E3Store/blog/refactorizqacion#refactorizaci%C3%B3n-y-limpieza-de-c%C3%B3digo" class="hash-link" aria-label="Enlace directo al Refactorización y Limpieza de código" title="Enlace directo al Refactorización y Limpieza de código">​</a></h2>
+<p>Se eliminaron funcionalidades obsoletas de la solución. Además, se depuraron advertencias siguiendo buenas prácticas de desarrollo.</p>
+<hr>]]></content:encoded>
+            <category>refactorización</category>
+            <category>buenas prácticas</category>
+        </item>
+        <item>
             <title><![CDATA[EnableProfiler (tag del web.config)]]></title>
             <link>https://cluna2024.github.io/E3Store/blog/webConfig</link>
             <guid>https://cluna2024.github.io/E3Store/blog/webConfig</guid>
-            <pubDate>Tue, 08 Oct 2024 17:24:34 GMT</pubDate>
+            <pubDate>Mon, 14 Oct 2024 19:50:53 GMT</pubDate>
             <description><![CDATA[EnableProfiler (tag del web.config)]]></description>
             <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="enableprofiler-tag-del-webconfig">EnableProfiler (tag del web.config)<a href="https://cluna2024.github.io/E3Store/blog/webConfig#enableprofiler-tag-del-webconfig" class="hash-link" aria-label="Enlace directo al EnableProfiler (tag del web.config)" title="Enlace directo al EnableProfiler (tag del web.config)">​</a></h2>
 <p>Se añadió un visualizador de consultas a la base de datos, que muestra la cantidad de consultas y los SELECTs ejecutados en tiempo real.</p>
@@ -81,7 +81,7 @@
 <div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>tip</div><div class="admonitionContent_BuS1"><p>Use the power of React to create interactive blog posts.</p></div></div>
 <!-- -->
 <p>For example, use JSX to create an interactive button:</p>
-<div class="language-js codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#bfc7d5;--prism-background-color:#292d3e"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-js codeBlock_bY9V thin-scrollbar" style="color:#bfc7d5;background-color:#292d3e"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#bfc7d5"><span class="token operator" style="color:rgb(137, 221, 255)">&lt;</span><span class="token plain">button onClick</span><span class="token operator" style="color:rgb(137, 221, 255)">=</span><span class="token punctuation" style="color:rgb(199, 146, 234)">{</span><span class="token punctuation" style="color:rgb(199, 146, 234)">(</span><span class="token punctuation" style="color:rgb(199, 146, 234)">)</span><span class="token plain"> </span><span class="token arrow operator" style="color:rgb(137, 221, 255)">=&gt;</span><span class="token plain"> </span><span class="token function" style="color:rgb(130, 170, 255)">alert</span><span class="token punctuation" style="color:rgb(199, 146, 234)">(</span><span class="token string" style="color:rgb(195, 232, 141)">'button clicked!'</span><span class="token punctuation" style="color:rgb(199, 146, 234)">)</span><span class="token punctuation" style="color:rgb(199, 146, 234)">}</span><span class="token operator" style="color:rgb(137, 221, 255)">&gt;</span><span class="token maybe-class-name">Click</span><span class="token plain"> me</span><span class="token operator" style="color:rgb(137, 221, 255)">!</span><span class="token operator" style="color:rgb(137, 221, 255)">&lt;</span><span class="token operator" style="color:rgb(137, 221, 255)">/</span><span class="token plain">button</span><span class="token operator" style="color:rgb(137, 221, 255)">&gt;</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copiar c�digo" title="Copiar" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<div class="language-js codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#bfc7d5;--prism-background-color:#292d3e"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-js codeBlock_bY9V thin-scrollbar" style="color:#bfc7d5;background-color:#292d3e"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#bfc7d5"><span class="token operator" style="color:rgb(137, 221, 255)">&lt;</span><span class="token plain">button onClick</span><span class="token operator" style="color:rgb(137, 221, 255)">=</span><span class="token punctuation" style="color:rgb(199, 146, 234)">{</span><span class="token punctuation" style="color:rgb(199, 146, 234)">(</span><span class="token punctuation" style="color:rgb(199, 146, 234)">)</span><span class="token plain"> </span><span class="token arrow operator" style="color:rgb(137, 221, 255)">=&gt;</span><span class="token plain"> </span><span class="token function" style="color:rgb(130, 170, 255)">alert</span><span class="token punctuation" style="color:rgb(199, 146, 234)">(</span><span class="token string" style="color:rgb(195, 232, 141)">'button clicked!'</span><span class="token punctuation" style="color:rgb(199, 146, 234)">)</span><span class="token punctuation" style="color:rgb(199, 146, 234)">}</span><span class="token operator" style="color:rgb(137, 221, 255)">&gt;</span><span class="token maybe-class-name">Click</span><span class="token plain"> me</span><span class="token operator" style="color:rgb(137, 221, 255)">!</span><span class="token operator" style="color:rgb(137, 221, 255)">&lt;</span><span class="token operator" style="color:rgb(137, 221, 255)">/</span><span class="token plain">button</span><span class="token operator" style="color:rgb(137, 221, 255)">&gt;</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copiar código" title="Copiar" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
 <button>Click me!</button>]]></content:encoded>
             <category>Docusaurus</category>
         </item>
